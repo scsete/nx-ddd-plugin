@@ -19,7 +19,7 @@ The generated access restrictions prevent unwanted access between libraries resp
 
 ### Features Overview Video
 
-<a href="https://www.youtube.com/watch?v=39JLXMEE7Ds" target="_blank">![Screenshot of Overview Video](https://i.imgur.com/VlTRE80.png)</a>
+<a href="https://www.youtube.com/watch?v=hxMrSeCGAR4" target="_blank">![Screenshot of Overview Video](https://i.imgur.com/VlTRE80.png)</a>
 
 ## Usage
 
